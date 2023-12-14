@@ -1,6 +1,8 @@
 # Chingu_Project
-Product owner Tier 2 project
-Requirements
+Project: Product owner Tier 2 
+Consider file Solo Project.pdf for the solution
+
+Requirements for the project:
 Structure
 
  Header item that includes the name for the app, and tabs (if using)
